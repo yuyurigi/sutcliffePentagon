@@ -21,7 +21,6 @@ public:
     float strutNoise;
     int _maxlevels;
     int circleResolution;
-    int c1;
     
     vector <ofVec2f> outerPoints;
     
