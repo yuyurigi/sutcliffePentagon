@@ -18,7 +18,6 @@ public:
 public:
     int level, num;
     float strutFactor;
-    float strutNoise;
     int _maxlevels;
     int circleResolution;
     
